@@ -1,4 +1,4 @@
-update=2017 August 07, Monday 16:13:43
+update=2017 August 10, Thursday 12:20:04
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,6 +25,16 @@ version=1
 NetIExt=net
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [eeschema]
 version=1
 LibDir=
@@ -59,13 +69,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=/Users/Sensei/temp/kicad-library/libs/legacy/MC34063
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
+LibName31=/Users/Sensei/temp/kicad-library/libs/LM2596
